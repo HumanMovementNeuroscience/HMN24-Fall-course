@@ -12,13 +12,8 @@
             "id": "74421a54192b4fb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -121,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,6 +186,7 @@
   },
   "active": "74421a54192b4fb1",
   "lastOpenFiles": [
+    "README.md",
     "pyproject.toml",
     "assignments/image.png",
     "assignments/assignment1-introductions-and-explorations.md",
@@ -204,7 +196,6 @@
     "code/video_transcriber",
     "code",
     "topics/index.md",
-    "README.md",
     "notes/2024-09-HMN-lectures.md",
     "topics",
     "lectures/Intro and Setup.md",
