@@ -54,5 +54,6 @@
         - Volitional Breathing (Physiological sigh)
         - Volitional eye movements (EMDR) 
         - naming/noticing sensations/emotions (somatic whosits)
-- On dogs, cats, and homunculi
+
+- On dogs, cats, homunculi, beetles, and boxes
 
