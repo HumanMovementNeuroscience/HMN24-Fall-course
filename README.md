@@ -1,6 +1,14 @@
 # Neural Control of Real-World Human Movement
 ## 2024 Fall
 
+# Course Status: Complete!
+
+Lectures available in this Playlist (the audio quality gets better about 3-4 vids in, after I start wearing the lapel mic)
+
+https://www.youtube.com/playlist?list=PLWxH2Ov17q5HRyRc7_HD5baSYB6kBgsTj
+
+# Next course repo, slated to be taught Spring 2025 (~Jan-May): https://github.com/HumanMovementNeuroscience/HMN-2025-Spring-course
+___
 #### Instructor: Jonathan Samir Matthis
  **Course Dates**: 10 Sept 2024 - 3 Dec 2023
  **Course Time**: (on canvas)
