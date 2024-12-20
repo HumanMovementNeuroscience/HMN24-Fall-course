@@ -1,25 +1,30 @@
 # Neural Control of Real-World Human Movement
 ## 2024 Fall
-
 # Course Status: Complete!
+- Next course repo, slated to be taught Spring 2025 (~Jan-May): https://github.com/HumanMovementNeuroscience/HMN-2025-Spring-course
 
-Lectures available in this Playlist (the audio quality gets better about 3-4 vids in, after I start wearing the lapel mic)
-
-https://www.youtube.com/playlist?list=PLWxH2Ov17q5HRyRc7_HD5baSYB6kBgsTj
-
-# Next course repo, slated to be taught Spring 2025 (~Jan-May): https://github.com/HumanMovementNeuroscience/HMN-2025-Spring-course
 ___
+___
+> Course syllabus copied below, NOTE that course content diverged from the plan, like, pretty much immediately lol
+___
+___
+
+
+## Course Syllabus
 #### Instructor: Jonathan Samir Matthis
  **Course Dates**: 10 Sept 2024 - 3 Dec 2023
  **Course Time**: (on canvas)
  **Course Location**: (on canvas)
+ **Lecture Recordings - https://www.youtube.com/playlist?list=PLWxH2Ov17q5HRyRc7_HD5baSYB6kBgsTj **
+ **SkellyBot repo - https://github.com/freemocap/skellybot**
+ **SkellyBot-Analysis repo - https://github.com/freemocap/skellybot-analysis**
 
 ### Course Materials and Resources
 - Discord Server: (Invite on Canvas)
 - Canvas page - [TBA]
 - Course website: [TBA]
 
-## Schedule Overview
+## Schedule Overview (NOTE - See [YouTube Playlist](https://www.youtube.com/playlist?list=PLWxH2Ov17q5HRyRc7_HD5baSYB6kBgsTj) for recorded lectures, which may not match schedule below)
 
 | Date (Tues)   | Week    | Topic                                         |
 | ------------- | ------- | --------------------------------------------- |
